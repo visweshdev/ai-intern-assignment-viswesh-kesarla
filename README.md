@@ -1,7 +1,6 @@
 # 🤖 Professional LLM Desktop Assistant
 
 ![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-purple.svg)
 
 ---
